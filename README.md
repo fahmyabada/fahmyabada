@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm mohamed fahmy abada</h1>
-<h3 align="center">software mobile engineer (android - flutter) from Egypt</h3>
+<h3 align="center">Software Engineer ( Flutter - Odoo ) from Egypt</h3>
 
 - 🔭 I’m currently working on [CRM](https://play.google.com/store/apps/details?id=com.gkist.crm)
 
-- 💬 Ask me about **kotlin , java and dart**
+- 💬 Ask me about **Dart, Python, Kotlin and Java**
 
 - 📫 How to reach me **fahmyabada@gmail.com**
 
