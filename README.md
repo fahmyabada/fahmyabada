@@ -18,9 +18,10 @@
 
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmyabada&layout=compact&langs_count=8&theme=algolia"
-    alt="fahmyabada" 
+    alt="GitHub Readme Stats" 
     bg_color=#808080/></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmyabada&&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="fahmyabada" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmyabada&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+
